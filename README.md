@@ -14,3 +14,6 @@ To get started review the app categories that are on offer [here](https://reflex
 5. When your app is finished create a PR into the main branch
 6. Please ensure each project has a thorough ReadMe that describes what your project does, how to run it and what category you are competing it (you can only select one category to compete in per app).
 
+## Share your Work
+
+Once your app is finished please share it on the [Showcase channel](https://discord.com/channels/1029853095527727165/1063735841333198938) on our Discord, with a demo video of how your app works. We will add apps to our community gallery channel. 
