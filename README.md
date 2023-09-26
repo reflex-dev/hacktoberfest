@@ -1,5 +1,4 @@
 # hacktoberfest
-October Hackathon
 
 Welcome to the Reflex Hacktoberfest competition. 
 
