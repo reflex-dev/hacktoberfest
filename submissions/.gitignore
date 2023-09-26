@@ -1,0 +1,12 @@
+**/*.db
+**/*.pyc
+**/*.swp
+**/.DS_Store
+**/.web
+*.db
+*.py[cod]
+.idea
+.web
+__pycache__/
+reflex.db
+venv/
