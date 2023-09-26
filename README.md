@@ -8,7 +8,7 @@ To get started review the app categories that are on offer [here](https://reflex
 
 ## How to Contribute
 1. Git clone this repo
-2. Create your own branch using `git checkout -n name_of_your_branch`
+2. Create your own branch using `git checkout -b name_of_your_branch`
 3. Create a folder with the name of your project 
 4. Build your app in this folder
 5. When your app is finished create a PR into the main branch
