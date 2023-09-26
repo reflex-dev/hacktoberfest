@@ -4,7 +4,7 @@ October Hackathon
 Welcome to the Reflex Hacktoberfest competition. 
 
 ## What to Build
-To get started review the app categories that are on offer [here]{https://reflex-dev.notion.site/aca6bf9bed5b4bb99b86b33d0761a445?v=f113d3d8d0664b709e55a1cfa286641e&pvs=4}. There will be a $100 prize for the best app in each of the four categories and a $50 prize for the second best app in each cetegory. In addition, all apps submitted and accepted will receive a month of free hosting when this feature is released. 
+To get started review the app categories that are on offer [here]({https://reflex-dev.notion.site/aca6bf9bed5b4bb99b86b33d0761a445?v=f113d3d8d0664b709e55a1cfa286641e&pvs=4}). There will be a $100 prize for the best app in each of the four categories and a $50 prize for the second best app in each cetegory. In addition, all apps submitted and accepted will receive a month of free hosting when this feature is released. 
 
 
 ## How to Contribute
