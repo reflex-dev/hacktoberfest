@@ -1,7 +1,8 @@
- ![Screenshot 2023-09-26 at 3 49 19 PM](https://github.com/reflex-dev/hacktoberfest/assets/38776361/37728ed2-20d5-48fc-91ef-47d858327743)
+![Screenshot 2023-09-26 at 3 49 19 PM](https://github.com/reflex-dev/hacktoberfest/assets/38776361/aec1aa61-93a7-45c5-a11c-a6ca08e5290d)
 
 # 🎃 Reflex Hacktoberfest Competition 🎃
 Welcome to the Reflex hacktoberfest competition!
+
 
 ## 🤔 What to Build
 To get started review the app categories that are on offer [here](https://reflex-dev.notion.site/aca6bf9bed5b4bb99b86b33d0761a445?v=f113d3d8d0664b709e55a1cfa286641e&pvs=4). There will be a $100 prize for the best app in each of the four categories and a $50 prize for the second best app in each cetegory. In addition, all apps submitted and accepted will receive a month of free hosting when this feature is released. 
