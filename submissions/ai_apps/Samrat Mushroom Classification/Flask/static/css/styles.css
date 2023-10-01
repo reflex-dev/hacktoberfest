@@ -29,6 +29,7 @@ body{
     font-weight: 700;
 }
 #detail_about_title{
+    color: #333;
     padding-top: 3px;
     padding-bottom: 5px;
     padding-left: 10px;
@@ -73,7 +74,7 @@ body{
 }
 
 .image_box {
-    margin-top: -380px;
+    margin-top: -330px;
     margin-left: 800px;
     margin-right: 30px;
     display: flex;
