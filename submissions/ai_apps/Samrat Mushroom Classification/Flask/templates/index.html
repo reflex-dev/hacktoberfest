@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Uncovering the Hidden Treasures of the Mushroom Kingdom: A Classification Analysis</title>
+    <link rel="stylesheet" href="/static/css/styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,500;0,700;1,300;1,700&family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet" />
+</head>
+<body>
+    <div class="ai_body_content">
+        <div class="header">
+            <h3 id="course"> AI Mushroom Classification Project </h3>
+        </div>
+        <div class="ai_box">
+            <div class="ai_content">
+                <h1 id="title">
+                    Uncovering the Hidden Treasures of the Mushroom Kingdom
+                </h1>
+                <p id="detail_about_title">
+                    "We will use this AI project to classify various types of
+                    mushrooms."
+                </p>
+            </div>
+            <div class="ai_actions">
+                <a href="{{ url_for('predict_page') }}">
+                    <button id="predict_btn">Predict</button>
+                </a> 
+            </div>
+        </div>
+        <div class="image_box">
+            <img src="/static/css/logo.jpg" alt="side image" >
+        </div>
+    </div>
+</body>
+</html>
