@@ -37,6 +37,7 @@ source venv/bin/activate
 
 4. Install the dependencies
 ```bash
+pip install reflex
 reflex init
 pip install -r {path to requirements.txt}
 ```
