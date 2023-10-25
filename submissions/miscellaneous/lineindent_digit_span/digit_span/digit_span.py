@@ -68,18 +68,32 @@ class Footer(rx.Hstack):
             font_size=["13px", "14px", "14px", "14px", "14px"],
             transition="all 550ms ease",
         )
-        self.faq = rx.link(
-            "FAQ", href="/faq", _hover={"text_decoration": "None"}, padding="0 0.35rem"
-        )
-        self.game = rx.link(
-            "Game", href="/", _hover={"text_decoration": "None"}, padding="0 0.35rem"
+
+        self.faq = rx.button(
+            rx.script(src="/links.js"),
+            "FAQ",
+            style=css.get("page_link"),
+            color_scheme="None",
+            font_weight="None",
+            on_click=rx.client_side("goFAQ(args)"),
         )
 
-        self.git = rx.link(
+        self.game = rx.button(
+            rx.script(src="/links.js"),
+            "Game",
+            style=css.get("page_link"),
+            color_scheme="None",
+            font_weight="None",
+            on_click=rx.client_side("goGame(args)"),
+        )
+
+        self.git = rx.button(
+            rx.script(src="/links.js"),
             "GitHub",
-            href="https://github.com/LineIndent",
-            _hover={"text_decoration": "None"},
-            padding="0 0.35rem",
+            style=css.get("page_link"),
+            color_scheme="None",
+            font_weight="None",
+            on_click=rx.client_side("goGitHub(args)"),
         )
 
         self.children = [self.attributes, rx.spacer(), self.game, self.faq, self.git]
@@ -89,13 +103,14 @@ class Footer(rx.Hstack):
 def index() -> rx.Component:
     header: rx.Hstack = Header()
     footer: rx.Hstack = Footer()
+    script: rx.script = rx.script(src="/numbers.js")
     announcement = Announcement()
 
     return rx.vstack(
         announcement,
         header,
         rx.vstack(
-            rx.script(src="/numbers.js"),
+            script,
             rx.divider(height="5em", border_color="transparent"),
             rx.hstack(
                 rx.heading(
@@ -109,7 +124,9 @@ def index() -> rx.Component:
             rx.hstack(
                 GameButton("start", "/play.png", rx.client_side("startNewLevel(args)")),
                 GameButton(
-                    "check", "/check.png", rx.client_side("checkUserSequence(args)")
+                    "check",
+                    "/check.png",
+                    rx.client_side("checkUserSequence(args)"),
                 ),
             ),
             rx.divider(height="0.5em", border_color="transparent"),

@@ -41,6 +41,11 @@ css: dict = {
         "width": "100%",
         "height": "inherit",
     },
+    "page_link": {
+        "_dark": {"color": "white"},
+        "_light": {"color": "black"},
+        "padding": "0 0.35rem",
+    },
     "footer": {
         "width": "100%",
         "height": "50px",
