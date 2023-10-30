@@ -13,7 +13,7 @@ class app_state(rx.State):
    
     
     def filter(self,value: str):
-        values=["only merged prs","assigned prs","closed prs","open prs","unapproved prs"]
+        values=["only merged prs","assigned prs","closed prs","open prs","approved prs"]
         keys=["merged","assigned","closed","open","is_approved"]
         key_to_search=keys[values.index(value)]
         new_data :List[dict]=[]

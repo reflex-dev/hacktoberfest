@@ -254,7 +254,7 @@ def index():
                 ),
                 rx.menu_list(
                     rx.menu_item("only merged prs",on_click=state.app_state.filter("only merged prs")),
-                    rx.menu_item("unapproved prs",on_click=state.app_state.filter("unapproved prs")),
+                    rx.menu_item("approved prs",on_click=state.app_state.filter("approved prs")),
                     rx.menu_item("unassigned prs",on_click=state.app_state.filter("unassigned prs")),
                     rx.menu_item("open prs",on_click=state.app_state.filter("open prs")),
                     rx.menu_item("closed prs",on_click=state.app_state.filter("closed prs")),
