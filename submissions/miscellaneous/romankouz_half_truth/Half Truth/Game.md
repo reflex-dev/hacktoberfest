@@ -1,0 +1,13 @@
+ - [x] Make a rules page.
+ - [x] Keep a table of scores.
+ - [x] Create tab (that can be changed) that indicates whose turn it is.
+ - [x] Allow a range of values for the number of truths and fibbs.
+ - [x] Allow alternative scoring.
+ - [x] Showcase round number.
+ - [x] Number the statements so that people can discuss them.
+ - [ ] Add an option that allows the opposing team to steal the points if the guessing team gets the answer wrong.
+ - [x] Add string versions of relevant integer variables for display purposes.
+ - [x] Ensure that changes to the setting can only be made at the start of play.
+	 - [ ] Make a note in the settings page that says this.
+ - [ ] Allow for users to customize the number of teams.
+ - [ ] Allow for users to customize the GPT bot (dropdown menu).
