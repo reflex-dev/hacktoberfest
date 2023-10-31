@@ -36,7 +36,7 @@ cd hacktoberfest/submissions/data_Visualizations/ashish_git_App
  ```bash```
  cd ..
  cat git_app/git_app.py > venv/venv/venv.py
- rm venv/venve/state.py
+ rm venv/venv/state.py
  cp state.py venv/
  
  
