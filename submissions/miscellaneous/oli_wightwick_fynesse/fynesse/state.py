@@ -487,7 +487,7 @@ class SearchState(State):
 
     def set_search_results_type(self, search_results_type: str):
         self.search_results_type = search_results_type
-        if self.search_results_type == 'Artists':
+        if self.search_results_type == SEARCH_RESULTS_TYPE_ARTISTS:
             self.year_search_enabled = False
             self.name_search_enabled = False
         
