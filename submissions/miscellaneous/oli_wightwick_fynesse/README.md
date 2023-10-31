@@ -28,8 +28,8 @@ To set this up:
 1. Agree to terms and click `Save`
 1. Click `Settings` in the top right
     - You now can see your `Client ID` and `Client Secret`
-1. Add your `Client ID` and `Client Secret` to [sp_secrets.py](sp_secrets.py)
-1. You are now ready to run the app. Do so by running `reflex init` followed by `reflex run` in the [parent directory](/) (you will need the packages listed in [requirements.txt](requirements.txt) installed)
+1. Add your `Client ID` and `Client Secret` to `sp_secrets.py`
+1. You are now ready to run the app. Do so by running `reflex init` followed by `reflex run` in the parent directory (you will need the packages listed in `requirements.txt` installed)
 1. On first run, a browser window will open to a spotify authentication page. When you click `Agree`, you will be redirected to a URL beginning `https://localhost:1234` (if you kept default port)
 1. The terminal session in which reflex is running will prompt you to `Enter the URL you were redirected to`; copy-paste the redirect url from your browser's address bar into the terminal and press enter
 1. The app should run, accessible at `http://localhost:3000` :sunglasses:
