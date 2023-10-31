@@ -1,6 +1,6 @@
 # git App
 
-- This app that shows a overview of pull requests with labels for a  repository.
+- This app  shows a overview of pull requests with labels for a  repository.
 - This app is built using relflex python framework and github api.
 
 
