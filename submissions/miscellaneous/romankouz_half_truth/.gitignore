@@ -1,0 +1,11 @@
+# .web
+
+*.db
+
+*.py[cod]
+
+.web
+
+__pycache__/
+
+half_truth_env/

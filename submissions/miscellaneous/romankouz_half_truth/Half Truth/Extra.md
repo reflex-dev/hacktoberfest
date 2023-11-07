@@ -1,0 +1,4 @@
+- [ ] Add a sound effect for (in)correct answers. (STAGED)
+	- [ ] Make it random out of a selection.
+- [ ] Add a sound effect for victory. (STAGED)
+- [ ] Create an animation for victory. (STAGED)
