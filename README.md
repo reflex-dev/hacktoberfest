@@ -39,7 +39,6 @@ In addition, share a link to your deployed app in the [Showcase channel](https:/
 
 ## Wrapping custom components
 
-$500 Wrap Shadcn: https://ui.shadcn.com/docs/components/accordion and add it to the repo reflex-dev/shadcn. (Make an issue on the repo to get it assigned),Not Assigned Yet,https://github.com/reflex-dev/shadcn,$500,component
 $300 Wrap Reactflow: https://github.com/reflex-dev/reactflow
 $250 Wrap React Email: https://github.com/resend/react-email
 $200 Wrap Altair Charts: https://altair-viz.github.io/
