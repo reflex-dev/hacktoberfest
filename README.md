@@ -1,25 +1,45 @@
-![Screenshot 2023-09-26 at 3 49 19 PM](https://github.com/reflex-dev/hacktoberfest/assets/38776361/aec1aa61-93a7-45c5-a11c-a6ca08e5290d)
+![Hacktoberfest](https://github.com/reflex-dev/hacktoberfest/assets/38776361/aec1aa61-93a7-45c5-a11c-a6ca08e5290d)
 
 # 🎃 Reflex Hacktoberfest Competition 🎃
-Welcome to the Reflex hacktoberfest competition!
 
+Welcome to the Reflex's 2024 Hacktoberfest.
 
 ## 🤔 What to Build
-To get started review the app categories that are on offer [here](https://reflex-dev.notion.site/aca6bf9bed5b4bb99b86b33d0761a445?v=f113d3d8d0664b709e55a1cfa286641e&pvs=4). There will be a $100 prize for the best app in each of the four categories and a $50 prize for the second best app in each cetegory. In addition, all apps submitted and accepted will receive a month of free hosting when this feature is released. 
+
+This year we have a couple tracks:
+
+- Best use of AG Grid--a component that we recently finished building support for
+- [Wrapping various React components in Reflex](#wrapping-custom-components) see below
+- Most aesthetic Reflex app
+
+### ⚙️ **How it works**
+
+- As an official Reflex Hacker, you can receive cash rewards, custom-branded swag, peer networking and education opportunities, access to beta updates, and more!
+
+When you have finished building your app:
+1. Open a pull requst to this repository
+2. Submit a link to your app in the suubmissions.md file
+
+In addition, share a link to your deployed app in the [Showcase channel](https://discord.com/channels/1029853095527727165/1063735841333198938) on our Discord.
+
+### 🙋 **Why join the hackathon?**
+
+| 🎉 **Rewards & Recognition** | 📓 **Learning & Community** | 🤝 **Collaboration** |
+| --- | --- | --- |
+
+
+1. 1st prize for each category will win a **$100 prize** with 2nd place taking **$50** (the wrapping component category will be judged separately)
+2. A voucher to our pro hosting service once it launches! You can already host on Reflex for free as of now.
+3. Join zoom calls with the team and work collaboratively to solve issues and plan/implement apps. |
 
 ```diff
 + Note: All submissions must use Reflex, all judging will take place at the beginning of November+
 ```
 
+## Wrapping custom components
 
-## How to Submit Your Project
-1. Git clone this repo
-2. Create your own branch using `git checkout -b name_of_your_branch`
-3. cd into the submissions folder and then into the folder for the category for which you would like to build your app.
-4. Create a folder with the name of your project (please start this folder name with your name)
-5. Build your app in this folder
-6. When your app is finished create a PR into the main branch
-7. Please ensure each project has a thorough ReadMe that describes what your project does, how to run it (you can only select one category to compete in per app).
-
-## Share your Work
-Once your app is finished please share it on the [Showcase channel](https://discord.com/channels/1029853095527727165/1063735841333198938) on our Discord, with a demo video of how your app works. We will add apps to our community gallery channel. 
+$500 Wrap Shadcn: https://ui.shadcn.com/docs/components/accordion and add it to the repo reflex-dev/shadcn. (Make an issue on the repo to get it assigned),Not Assigned Yet,https://github.com/reflex-dev/shadcn,$500,component
+$300 Wrap Reactflow: https://github.com/reflex-dev/reactflow
+$250 Wrap React Email: https://github.com/resend/react-email
+$200 Wrap Altair Charts: https://altair-viz.github.io/
+$200 Wrap Bokeh Charts: https://bokeh.org/

@@ -1,1 +1,0 @@
-web: sh -c 'reflex init ; reflex run --env prod'

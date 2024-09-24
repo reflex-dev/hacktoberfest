@@ -1,5 +1,0 @@
-- [x] Ensure that all the functions that need an underscore have one.
-- [x] Clean up the instances of the RoundState class.
-- [x] Have Generate Round work on the "Enter" key press.
-- [x] Create a Generate New Game button that resets the game.
-	- [x] Test if this is even needed.

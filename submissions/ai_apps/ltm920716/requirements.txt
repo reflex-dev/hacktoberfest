@@ -1,4 +1,0 @@
-reflex>=0.2.9
-openai
-loguru
-python-dotenv 
