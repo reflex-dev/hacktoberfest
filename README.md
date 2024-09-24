@@ -11,6 +11,7 @@ This year we have a couple tracks:
 - Best use of AG Grid--a component that we recently finished building support for
 - [Wrapping various React components in Reflex](#wrapping-custom-components) see below
 - Most aesthetic Reflex app
+- Best developer experience--an app that improves the developer experience of some workflow e.g. writing changelogs, writing documentation, etc.
 
 ### ⚙️ **How it works**
 
