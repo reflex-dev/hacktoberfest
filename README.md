@@ -15,11 +15,12 @@ This year we have a couple tracks:
 
 ### ⚙️ **How it works**
 
+- Here's how to get started wit Reflex: https://reflex.dev/docs/getting-started/installation/
 - As an official Reflex Hacker, you can receive cash rewards, custom-branded swag, peer networking and education opportunities, access to beta updates, and more!
 
 When you have finished building your app:
 1. Open a pull requst to this repository
-2. Submit a link to your app in the suubmissions.md file
+2. Submit a link to your Reflex app in the [submissions.md file](./submissions.md)
 
 In addition, share a link to your deployed app in the [Showcase channel](https://discord.com/channels/1029853095527727165/1063735841333198938) on our Discord.
 
